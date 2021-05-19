@@ -218,4 +218,4 @@ while True:
         post_message(myToken,"#bitcoin-stock", "에러발생")
         a = 0
 
-        time.sleep(5
+        time.sleep(5)
