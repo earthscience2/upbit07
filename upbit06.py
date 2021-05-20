@@ -14,7 +14,7 @@ if __name__ == "__main__":
 #개인 정보 입력
 access = "bAxXjSkcPIOQZKwiECpJTyXyUkG9oICbqi1SIjwR"
 secret = "UOk6txTV0XarEx0L2QcluxZv6SuI3HQw6xITrscw"
-myToken = "xoxb-2052427334483-2092511912528-LJq2IdrsNgd5hO303DgWby8K"
+myToken = ""
 
 def post_message(token, channel, text):
     """슬랙 메시지 전송"""
